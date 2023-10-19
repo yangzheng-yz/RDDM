@@ -1,0 +1,8 @@
+results/
+results_L/
+*.txt
+*.out
+*.pyc
+*.png
+__pycache__/
+
